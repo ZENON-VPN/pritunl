@@ -15,14 +15,14 @@ Script Install
 - Web Server
 - Squid Proxy Port 8080,8000,80"
 
-**TimeZone**   :  ไทยโว้ยยยยย
+**TimeZone**   :  ไทย
 
 _________________________________________________
 **วิธีติดตั้ง**
 
 Ubuntu 14.xx+
 ```
-wget https://raw.githubusercontent.com/Dv-Server/oneclick-pritunl/master/install.sh
+wget https://raw.githubusercontent.com/ZENON-VPN/pritunl/master/install.sh
 chmod +x install.sh
 ./install.sh
 ```
@@ -32,7 +32,7 @@ __________________________________________________
 
 Debian8
 ```
-https://raw.githubusercontent.com/Dv-Server/-pritunl/master/debian8.sh
+https://raw.githubusercontent.com/ZENON-VPN/pritunl/master/debian8.sh
 chmod +x debian8.sh
 ./debian8.sh
 ```
@@ -40,5 +40,5 @@ chmod +x debian8.sh
 __________________________________________________
 **NOTE**
 
- -เ ฮี ย แ ง ะ งั ย จ ะ คั ย ล่ ะ-
+ -ZENON-VPM.ML-
 ___________________________________________________
