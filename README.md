@@ -32,7 +32,7 @@ __________________________________________________
 
 Debian8
 ```
-https://raw.githubusercontent.com/ZENON-VPN/pritunl/master/debian8.sh
+wget https://raw.githubusercontent.com/ZENON-VPN/pritunl/master/debian8.sh
 chmod +x debian8.sh
 ./debian8.sh
 ```
