@@ -16,9 +16,9 @@ Script Install
 - Squid Proxy Port 8080,8000,80"
 
 _________________________________________________
-**วิธีติดตั้ง**
+# วิธีติดตั้ง
 
-Ubuntu 14.xx+
+- **Ubuntu 14.xx+**
 ```
 wget https://raw.githubusercontent.com/ZENON-VPN/pritunl/master/install.sh
 chmod +x install.sh
@@ -26,9 +26,8 @@ chmod +x install.sh
 ```
 
 __________________________________________________
-**วิธีติดตั้ง**
 
-Debian8
+- **Debian8**
 ```
 wget https://raw.githubusercontent.com/ZENON-VPN/pritunl/master/debian8.sh
 chmod +x debian8.sh
