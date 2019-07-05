@@ -20,9 +20,9 @@ _________________________________________________
 
 - **Ubuntu 14.xx+**
 ```
-wget https://raw.githubusercontent.com/ZENON-VPN/pritunl/master/install.sh
-chmod +x install.sh
-./install.sh
+wget https://raw.githubusercontent.com/ZENON-VPN/pritunl/master/ubuntu14.sh
+chmod +x ubuntu14.sh
+./ubuntu14.sh
 ```
 
 __________________________________________________
